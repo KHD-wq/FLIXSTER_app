@@ -4,7 +4,7 @@ Submitted by: Kasaan Dornelus
 
 FLIXSTER_app is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **X** hours spent in total
+Time spent: 72 hours spent in total
 
 ## Required Features
 
@@ -28,16 +28,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<div>
+    <a href="https://www.loom.com/share/954c65e2787d4c6ea5a5102ef050062c">
+      <p>Flickster App Overview 🎬 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/954c65e2787d4c6ea5a5102ef050062c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/954c65e2787d4c6ea5a5102ef050062c-70300f67794608ff-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
@@ -45,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2003] [Kasaan Dornelus]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
